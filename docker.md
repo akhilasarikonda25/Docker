@@ -16,6 +16,10 @@ ex :
 
 7) Instead of using monolithic services we should use micro services.
 
+8)In micro services Time consumption and cost is very high when we compared to monolithic so inorder to overcome this we are using the docker.
+
+
+
 
 
 
