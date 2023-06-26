@@ -52,4 +52,6 @@ Components of docker
 
 4) Docker Registry
 
-   
+   Docker commands
+   [Docker cmds.txt](https://github.com/akhilasarikonda25/Docker/files/11868512/Docker.cmds.txt)
+
