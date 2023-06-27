@@ -55,3 +55,8 @@ Components of docker
    Docker commands
    [Docker cmds.txt](https://github.com/akhilasarikonda25/Docker/files/11868512/Docker.cmds.txt)
 
+   
+    [Uploading Connect to mobaxterm with remote ho.txt…]()
+
+   
+
