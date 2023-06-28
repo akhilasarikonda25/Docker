@@ -55,9 +55,7 @@ Components of docker
    Docker commands
    [Docker cmds.txt](https://github.com/akhilasarikonda25/Docker/files/11868512/Docker.cmds.txt)
 
-   [Rec3.txt](https://github.com/akhilasarikonda25/Docker/files/11884032/Rec3.txt)
-
- 
-
    
+  [Rec3.txt](https://github.com/akhilasarikonda25/Docker/files/11895858/Rec3.txt)
+
 
